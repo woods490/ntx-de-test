@@ -14,7 +14,7 @@ This repository houses four structured challenge directories:
 - **Soal 1** - Data Transformation and Analysis Case
 - **Soal 2** - Docker Application Case
 - **Soal 3** - Data Collection and Scraping Case
-- **Soal 4** - SQL Analysis Challenge
+- **Soal 4** - SQL Case
 
 Your task is to delve into three out of these four challenges. We grant you the flexibility to select the challenges that resonate most with your skills and confidence levels. 
 
